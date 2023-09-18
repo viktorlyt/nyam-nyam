@@ -1,4 +1,4 @@
-demo: nyam-nyam.netlify.app
+demo: https://nyam-nyam.netlify.app/
 
 
 
